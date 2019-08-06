@@ -1493,8 +1493,20 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-ryoNfveMiC {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #971212;
+}
+.cid-ryoNfveMiC .mbr-text,
+.cid-ryoNfveMiC .mbr-section-btn {
+  color: #ffe595;
+}
+.cid-ryoNfveMiC H1 {
+  color: #971212;
+}
 .cid-ryiZWa4Q5X {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background: linear-gradient(0deg, #ffe595, #ffe595);
 }
