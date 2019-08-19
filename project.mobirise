@@ -71,8 +71,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Tilki Uykusu",
+        "meta_descr": "Çocuklarla Katılım Çalışmaları!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
